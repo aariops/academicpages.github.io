@@ -20,8 +20,8 @@ Education
 
 Leadership & Community
 ------
-* Proud [Mozilla Open Leader](https://mozilla.github.io/leadership-training/) part of [#RebelFoxes](https://twitter.com/rachaelevelyn/lists/rebelfoxes) group (Round 4) and  Project Lead for Mozilla's 2018 [Global Sprint](https://mozilla.github.io/global-sprint/)
+* Proud [Mozilla Open Leadership](https://mozilla.github.io/leadership-training/) alumna & mentor
 * Member of [D3 - Defesa dos Direitos Digitais](https://direitosdigitais.pt/)
 * Member of the [Ubuntu Potugal](https://ubuntu-pt.org/) community
-* [Spark Sunderland](https://www.sparksunderland.com) alumni
-* Rádio Zero honorary collaborator
+* [Spark Sunderland](https://www.sparksunderland.com) alumna
+* [Rádio Zero](https://www.facebook.com/radiozero/) honorary collaborator
