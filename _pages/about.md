@@ -12,8 +12,7 @@ Hello,
 
 I'm Rute Correia, a Communication PhD student at [ISCTE-IUL](https://iscte-iul.pt/).
 
-My prethesis is **Community Radio Stations Sustainability Model: An Open Source Solution**.
-My work will draw upon case studies to look into how open source can be integrated in community radio stations in terms of content creation, technology operation and community management to provide a sustainable broadcast practice and, thus, ensuring that such social structures remain faithful to their mission of inclusiveness and empowerment through participation. You can read the current abstract [on the blog](/posts/2018-10-18-blog-post-3.md).
+My prethesis is **Community Radio Stations Sustainability Model: An Open Source Solution**. My work will look into how open source can be integrated in community radio stations in terms of content creation, technology operation and community management to provide a sustainable broadcast practice. You can read the current abstract [on the blog](/posts/2018-10-18-blog-post-3.md).
 
 Other research (and personal) interests revolve around the [open movement](http://opendatahandbook.org/glossary/en/terms/open-movement/), open content and copyleft, remix studies, digital rights and activism, participatory social structures, radio art and experimental forms of radio production.
 
