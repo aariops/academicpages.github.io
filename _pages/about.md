@@ -13,7 +13,7 @@ Hello,
 I'm Rute Correia, a Communication PhD student at [ISCTE-IUL](https://iscte-iul.pt/).
 
 My prethesis is **Community Radio Stations Sustainability Model: An Open Source Solution**.
-My work will draw upon case studies to look into how open source can be integrated in community radio stations in terms of content creation, technology operation and community management to provide a sustainable broadcast practice and, thus, ensuring that such social structures remain faithful to their mission of inclusiveness and empowerment through participation. You can read the current abstract [on the blog](/home/rute/Documentos/Git/aariops.github.io/_posts/2018-10-18-blog-post-3.md).
+My work will draw upon case studies to look into how open source can be integrated in community radio stations in terms of content creation, technology operation and community management to provide a sustainable broadcast practice and, thus, ensuring that such social structures remain faithful to their mission of inclusiveness and empowerment through participation. You can read the current abstract [on the blog](/posts/2018-10-18-blog-post-3.md).
 
 Other research (and personal) interests revolve around the [open movement](http://opendatahandbook.org/glossary/en/terms/open-movement/), open content and copyleft, remix studies, digital rights and activism, participatory social structures, radio art and experimental forms of radio production.
 
@@ -23,5 +23,5 @@ I currently host and produce the morning show at [Oxigénio 102.6](http://oxigen
 
 *This page is constantly under construction. Check back later for updates.*
 
-![img_of_radio_by_Cirenia](/home/rute/Documentos/Git/aariops.github.io/images/pubhd_oct_rute.jpg)
+![img_of_radio_by_Cirenia](/images/pubhd_oct_rute.jpg)
 *<small>Image by [Cirenia Sketches](https://twitter.com/CireniaSketches)</small>*
