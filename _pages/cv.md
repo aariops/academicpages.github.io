@@ -24,4 +24,4 @@ Leadership & Community
 * Member of [D3 - Defesa dos Direitos Digitais](https://direitosdigitais.pt/)
 * Member of the [Ubuntu Potugal](https://ubuntu-pt.org/) community
 * [Spark Sunderland](https://www.sparksunderland.com) alumna
-* [Rádio Zero](https://www.facebook.com/radiozero/) honorary collaborator
+* [Rádio Zero](https://http://radiozero.pt/) honorary collaborator
